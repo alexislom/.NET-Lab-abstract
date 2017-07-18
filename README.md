@@ -35,6 +35,17 @@ Extension methods
 Operator overloading
 
 day2:
-
+System.String
+Compare strings
+interning strings
+pool of literals
+StringBuilder
+Dates and Times
+Equality Comparison - Standard Equality Protocols
+IComparable versus Equals
+Exceptions
+Logging
+Delegates
+Lambdas
 
 day3:
