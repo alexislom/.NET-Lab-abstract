@@ -1,4 +1,5 @@
 Plan
+
 day1:
 
 Introducing .NET Framework. Introducing C#. Basic Coding in C#
