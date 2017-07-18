@@ -35,6 +35,7 @@ Extension methods
 Operator overloading
 
 day2:
+
 System.String
 Compare strings
 interning strings
