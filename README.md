@@ -1,4 +1,5 @@
 Plan
+day1:
 
 Introducing .NET Framework. Introducing C#. Basic Coding in C#
 .NET as software framework
@@ -31,3 +32,8 @@ Partial classes
 Static methods
 Extension methods
 Operator overloading
+
+day2:
+
+
+day3:
