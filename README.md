@@ -50,3 +50,5 @@ Delegates
 Lambdas
 
 day3:
+
+Generics and collections
